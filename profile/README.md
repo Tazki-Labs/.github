@@ -1,7 +1,8 @@
-# 🏛️ Tazki Zakat Ecosystem
+# 🕋 Tazki Labs
 
-> **Give with ease and certainty.**
+**Digitizing Islam.**
 
+Developing modern, scalable digital products and infrastructure for the global Islamic ecosystem. 
 
-
-Tazki Zakat is a comprehensive, end-to-end Zakat Management System.
+---
+*Karachi, PK*
